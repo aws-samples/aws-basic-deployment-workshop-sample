@@ -1,11 +1,31 @@
-## My Project
+## For AWS One-stop Workshop
 
-TODO: Fill this README out!
+WORKSHOP_LINK
 
-Be sure to:
+## Description
 
-* Change the title in this README
-* Edit your repository description on GitHub
+The application is a sample Nest.js application that tests an RDS connection through AWS Secrets Manager and an S3 connection through a VPC endpoint.
+
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+> Edit `.env` file
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run deploy
+```
 
 ## Security
 
@@ -14,4 +34,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
