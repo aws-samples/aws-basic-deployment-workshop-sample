@@ -1,6 +1,6 @@
-## For AWS One-stop Workshop
+## For AWS Basic Deployment Workshop
 
-WORKSHOP_LINK
+https://catalog.us-east-1.prod.workshops.aws/v2/workshops/3fd6c80b-39f2-4534-b69c-c400aed50c67/ko-KR/
 
 ## Description
 
