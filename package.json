@@ -29,7 +29,7 @@
     "@nestjs/swagger": "^5.2.1",
     "@nestjs/typeorm": "^8.1.4",
     "aws-sdk": "^2.1354.0",
-    "axios": "^0.21.4",
+    "axios": "^0.28.0",
     "dotenv": "^8.6.0",
     "mysql2": "^3.9.8",
     "reflect-metadata": "^0.1.13",
