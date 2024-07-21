@@ -12,6 +12,11 @@ The application is a sample Nest.js application that tests an RDS connection thr
 $ npm install
 ```
 
+If you get an `ERESOLVE unable to resolve dependency tree` error, run the command below and try `npm install` again.
+```bash
+$ npm install @nestjs/config@latest
+```
+
 ## Running the app
 
 > Edit `.env` file
